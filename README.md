@@ -1,4 +1,4 @@
-https://reengen-final-frontend.vercel.app/login
+https://reengen-final-frontend.vercel.app/
 
 # client
 
